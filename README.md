@@ -1,7 +1,9 @@
 # Starter Web Project
 
-##Introduction
+## Introduction
 
 ## Purpose
 
-##Sample website with plenty of files for demos
+## Deployment
+
+## Sample website with plenty of files for demos
