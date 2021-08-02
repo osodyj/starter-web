@@ -1,6 +1,7 @@
 # Starter Web Project
 
-Hi
+This is a simple website project for showing hot use Git
+Github together. Adding a line for rebasing example.
 
 ## Introduction
 
