@@ -10,3 +10,7 @@ As state above, the
 This a simple web project
 
 ## Sample website with plenty of files for demos
+
+##Copyright
+
+2014
